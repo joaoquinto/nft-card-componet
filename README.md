@@ -6,7 +6,7 @@
 
 ## Desktop
 
-<img src="./assets\screenshots\Desktop.png" width="1280px" height="800px">
+<img src="./assets\screenshots\Desktop.png" width="1920px" height="1080px">
 
 ## Mobile
 
